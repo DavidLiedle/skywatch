@@ -50,7 +50,7 @@ SKYWATCH transforms mundane system monitoring into an immersive cockpit experien
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd fx
+cd skywatch
 ```
 
 2. Build the project:
